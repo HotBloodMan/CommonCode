@@ -1,0 +1,4 @@
+手指在ListView上下滚动时，ListViewItem背景变黑，因为在滚动的时候为了提升性能做了优化，为提高滚动的性能，Android 框架在ListView中引入CacheColorHint属性。如果该值为非0，则说明该ListView绘制在单色不透明的背景上，在默认情况下该值 为#191919，也就是黑色主题中的黑色背景颜色值，这样当ListView滚动的时候就会使用该值来绘制ListView的背景。
+解决方法有两种：
+1、xml中，ListView内新增属性：android:cacheColorHint=”#00000000″
+2、Java类文件中，对ListView设置如下属性：listview.setCacheColorHint(Color.TRANSPARENT);
