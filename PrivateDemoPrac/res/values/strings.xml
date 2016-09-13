@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrivateDemoPrac</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+     <string name="babywatch">宝宝看</string>
+    <string name="babylistener">宝宝听</string>
+    <string name="my">我的</string>
+    
+</resources>
