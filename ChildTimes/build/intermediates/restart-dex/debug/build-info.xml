@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="10647976579245" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="30633553415251" >
+        <artifact
+            location="D:\EclipseWorkSpace\ChildTimes\build\outputs\apk\ChildTimes-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

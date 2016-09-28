@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\image_layout_shape.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\image_layout_shape.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_collect.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\bg_collect.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\title_icon_ok_bg.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\title_icon_ok_bg.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\slash_bg.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\slash_bg.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_category.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\bg_category.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_home.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\bg_home.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_setting.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\drawable\\bg_setting.xml"
+    }
+]

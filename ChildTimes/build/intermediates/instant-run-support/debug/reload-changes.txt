@@ -1,0 +1,2 @@
+CHANGED,D:\EclipseWorkSpace\ChildTimes\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\EclipseWorkSpace\ChildTimes\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lee\privatecustom\view\TopIndicator$override.class

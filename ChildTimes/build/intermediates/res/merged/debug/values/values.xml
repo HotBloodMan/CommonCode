@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bottom_bar_labels">
+        <item>@string/babywatch</item>
+        <item>@string/babylistener</item>
+        <item>@string/my</item>
+    </string-array>
+    <string-array name="cate_list">
+        <item>@string/recommend</item>
+        <item>@string/jacket</item>
+        <item>@string/skirt</item>
+        <item>@string/trousers</item>
+        <item>@string/shoes</item>
+        <item>@string/bag</item>
+        <item>@string/accessories</item>
+    </string-array>
+    <color name="app_bg">#eeeeee</color>
+    <color name="background_color">#fbfbfb</color>
+    <color name="black">#ff646464</color>
+    <color name="fuxk_base_divide_line_color">#dcdcdc</color>
+    <color name="fuxk_settle_black_mark">#1A000000</color>
+    <color name="tab_item_default">#fafafa</color>
+    <color name="tab_item_selected">#f0f1f2</color>
+    <color name="tab_text_default">#bbbbbb</color>
+    <color name="tab_text_selected">#f8597c</color>
+    <color name="title_text_color">#ffffff</color>
+    <color name="white">#ffffffff</color>
+    <declare-styleable name="TabWidget"><attr format="reference" name="bottom_labels"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimen_100px">44.44dp</dimen>
+    <dimen name="dimen_120px">53.28dp</dimen>
+    <dimen name="dimen_30px">13.33dp</dimen>
+    <string name="about_us">关于我们</string>
+    <string name="accessories">配饰</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ChildTimes</string>
+    <string name="app_recommend">应用推荐</string>
+    <string name="babylistener">宝宝听</string>
+    <string name="babywatch">宝宝看</string>
+    <string name="bag">包包</string>
+    <string name="category">分类</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="collect">收藏</string>
+    <string name="content_edit_hint">欢迎在这儿发表宝贵的意见哦~</string>
+    <string name="feedback">我的收藏</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">首页</string>
+    <string name="jacket">上衣</string>
+    <string name="mobile_number">手机号</string>
+    <string name="mobile_number_hint">方便我们尽快反馈</string>
+    <string name="my">我的</string>
+    <string name="recommend">推荐</string>
+    <string name="recommend_to_weixin_friend">我的下载</string>
+    <string name="setting">设置</string>
+    <string name="shoes">鞋子</string>
+    <string name="skirt">裙子</string>
+    <string name="trousers">裤子</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="setting_text_style">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:paddingLeft">20dip</item>
+        <item name="android:paddingTop">12dip</item>
+        <item name="android:paddingBottom">12dip</item>
+    </style>
+    <style name="small_divider">
+        <item name="android:layout_width">1.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/small_divider</item>
+    </style>
+    <style name="title_bar_style">
+        <item name="android:background">@drawable/title_bg</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="title_text_style">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@color/title_text_color</item>
+    </style>
+</resources>

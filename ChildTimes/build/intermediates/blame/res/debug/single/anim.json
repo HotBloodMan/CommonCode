@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_in.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_4.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\anim\\cycle_4.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_out.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\anim\\bottom_out.xml"
+    }
+]

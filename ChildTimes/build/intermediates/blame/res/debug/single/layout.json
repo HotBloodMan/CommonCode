@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\top_indicator_item.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\top_indicator_item.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_anim.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_anim.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\tab_item.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_tab.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_home_tab.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\cate_list_item.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\cate_list_item.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_tab2.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_home_tab2.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collect.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_collect.xml"
+    },
+    {
+        "merged": "D:\\EclipseWorkSpace\\ChildTimes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_tab3.xml",
+        "source": "D:\\EclipseWorkSpace\\ChildTimes\\res\\layout\\fragment_home_tab3.xml"
+    }
+]
