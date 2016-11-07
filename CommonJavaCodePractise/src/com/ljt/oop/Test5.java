@@ -1,0 +1,37 @@
+package com.ljt.oop;
+
+public class Test5 {
+
+	public static void function(Animal a){
+		a.eat();
+		a.sleep();
+	}
+	public static void main(String[] args) {
+		Test5.function(new Cat());
+		Test5.function(new Dog());
+	}
+}
+class Cat implements Animal{
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		System.out.println("³ÔÓã");
+	}
+	@Override
+	public void sleep() {
+		// TODO Auto-generated method stub
+		System.out.println("Ë¯´ó¾õ");
+	}
+}
+class Dog implements Animal{
+	@Override
+	public void eat() {
+		System.out.println("³Ô¹ÇÍ·");
+	}
+	@Override
+	public void sleep() {
+		System.out.println("³ÔÒ»Ìì");
+	}
+	
+}
