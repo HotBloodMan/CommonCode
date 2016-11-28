@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="startimes.com.fragmentcallbackdemo.MainActivity">
+
+    <fragment
+        android:name="startimes.com.fragmentcallbackdemo.TopsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:tag="top_fragment"
+        />
+    <fragment
+        android:name="startimes.com.fragmentcallbackdemo.BottomsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:tag="bottom_fragment"
+        />
+</LinearLayout>
