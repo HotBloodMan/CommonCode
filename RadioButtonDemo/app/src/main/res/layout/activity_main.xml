@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="#FFAAAAAA"
+        android:layout_marginLeft="100dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:drawableRight="@drawable/radiobtn_selector_flight"
+            android:textColor="@drawable/radiobtn_selector_text"
+            android:paddingRight="15dp"
+            android:text="我的航班" />
+
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:drawableRight="@drawable/radiobtn_selector_order"
+            android:paddingRight="15dp"
+            android:textColor="@drawable/radiobtn_selector_text"
+            android:text="我的订单" />
+
+    </RadioGroup>
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        ></FrameLayout>
+
+</LinearLayout>
