@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="startimes.com.externalstoragedemo.SharePreferenceActivity">
+<EditText
+    android:id="@+id/etNumber"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="请输入账号。。。"
+    />
+<EditText
+    android:id="@+id/etPassWord"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="请输入密码。。。"
+    />
+ <Button
+     android:id="@+id/btn_put"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="存入"
+     />
+ <Button
+     android:id="@+id/btn_get"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="取出"
+     />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_Show"
+        />
+</LinearLayout>
